@@ -1,0 +1,84 @@
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.deps.json
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.pdb
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.pdb
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.pdb
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.pdb
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.AssemblyReference.cache
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfoInputs.cache
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfo.cs
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CopyComplete
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\obj\Debug\net7.0\refint\Employee.Repository.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.pdb
+D:\ASP.Net\Angular\Angular API\employee\Employee.Repository\obj\Debug\net7.0\ref\Employee.Repository.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.deps.json
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.AssemblyReference.cache
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfoInputs.cache
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfo.cs
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CopyComplete
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\obj\Debug\net7.0\refint\Employee.Repository.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Repository\obj\Debug\net7.0\ref\Employee.Repository.dll
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.deps.json
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.dll
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.pdb
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.dll
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.dll
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.dll
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.dll
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.pdb
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.pdb
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.pdb
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.pdb
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.AssemblyReference.cache
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfoInputs.cache
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfo.cs
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CoreCompileInputs.cache
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CopyComplete
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.dll
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\obj\Debug\net7.0\refint\Employee.Repository.dll
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.pdb
+C:\Users\USSL\Downloads\employee\employee\Employee.Repository\obj\Debug\net7.0\ref\Employee.Repository.dll
+D:\Full_Project\employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.deps.json
+D:\Full_Project\employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.dll
+D:\Full_Project\employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.pdb
+D:\Full_Project\employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.dll
+D:\Full_Project\employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.dll
+D:\Full_Project\employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\Full_Project\employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.dll
+D:\Full_Project\employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.pdb
+D:\Full_Project\employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\Full_Project\employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.pdb
+D:\Full_Project\employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.pdb
+D:\Full_Project\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.AssemblyReference.cache
+D:\Full_Project\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full_Project\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfoInputs.cache
+D:\Full_Project\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfo.cs
+D:\Full_Project\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CoreCompileInputs.cache
+D:\Full_Project\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CopyComplete
+D:\Full_Project\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.dll
+D:\Full_Project\employee\Employee.Repository\obj\Debug\net7.0\refint\Employee.Repository.dll
+D:\Full_Project\employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.pdb
+D:\Full_Project\employee\Employee.Repository\obj\Debug\net7.0\ref\Employee.Repository.dll
